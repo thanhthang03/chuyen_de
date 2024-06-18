@@ -1,0 +1,9 @@
+PyQt6
+pyodbc
+transformers
+torch
+sounddevice
+soundfile
+numpy
+speechrecognition
+pydub
